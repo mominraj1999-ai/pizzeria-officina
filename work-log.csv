@@ -1,6 +1,6 @@
-Date,Start Time,End Time,Hours,Hourly Rate (TK),Total Payment (TK),Status,Notes
-2026-07-01,10:00,18:00,8,500,4000,Pending,Regular shift
-2026-07-02,11:00,19:30,8.5,500,4250,Pending,Extra hour
-2026-07-03,10:00,18:00,8,60,euro,Payment Done,Regular shift
-2026-07-04,10:00,18:00,8,500,4000,Pending,Regular shift
-2026-07-05,10:00,18:00,8,500,4000,Pending,Regular shift
+Date,Start Time,End Time,Hours,Hourly Rate (EURO),Total Payment (EURO),Status,Notes
+2026-07-01,10:00,18:00,8,60,4000,Pending,Regular shift
+2026-07-02,11:00,19:30,8.5,60,4250,Pending,Extra hour
+2026-07-03,10:00,18:00,8,60,4000,Pending,Regular shift
+2026-07-04,10:00,18:00,8,60,euro,Payment Done,Regular shift
+2026-07-05,10:00,18:00,8,60,4000,Pending,Regular shift
